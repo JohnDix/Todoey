@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		529F78222014DC4400322209 /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529F78212014DC4400322209 /* CategoryViewController.swift */; };
 		52FE95E320137573007FF87F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FE95E220137573007FF87F /* AppDelegate.swift */; };
 		52FE95E520137573007FF87F /* TodoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FE95E420137573007FF87F /* TodoListViewController.swift */; };
 		52FE95E820137573007FF87F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52FE95E620137573007FF87F /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		529F78212014DC4400322209 /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
 		52FE95DF20137573007FF87F /* Todoey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Todoey.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52FE95E220137573007FF87F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52FE95E420137573007FF87F /* TodoListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		52FE95F72013987E007FF87F /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				529F78212014DC4400322209 /* CategoryViewController.swift */,
 				52FE95E420137573007FF87F /* TodoListViewController.swift */,
 			);
 			path = Controllers;
@@ -174,6 +177,7 @@
 				52FE95E520137573007FF87F /* TodoListViewController.swift in Sources */,
 				52FE95FC2013BFF3007FF87F /* DataModel.xcdatamodeld in Sources */,
 				52FE95E320137573007FF87F /* AppDelegate.swift in Sources */,
+				529F78222014DC4400322209 /* CategoryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
